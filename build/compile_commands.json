@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/mysqlconnectpoll_static.dir/MysqlConnect.cpp.o -c /root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnect.cpp",
+  "file": "/root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnect.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/mysqlconnectpoll_static.dir/MysqlConnectPoll.cpp.o -c /root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnectPoll.cpp",
+  "file": "/root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnectPoll.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll",
+  "command": "/usr/bin/g++  -Dmysqlconnectpoll_shared_EXPORTS -I/root/projects/zeroCodeSerber/include -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g -fPIC   -o CMakeFiles/mysqlconnectpoll_shared.dir/MysqlConnect.cpp.o -c /root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnect.cpp",
+  "file": "/root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnect.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll",
+  "command": "/usr/bin/g++  -Dmysqlconnectpoll_shared_EXPORTS -I/root/projects/zeroCodeSerber/include -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g -fPIC   -o CMakeFiles/mysqlconnectpoll_shared.dir/MysqlConnectPoll.cpp.o -c /root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnectPoll.cpp",
+  "file": "/root/projects/zeroCodeSerber/library/mysqlconnectpoll/MysqlConnectPoll.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/Configuration.cpp.o -c /root/projects/zeroCodeSerber/src/Configuration.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/Configuration.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/EpollData.cpp.o -c /root/projects/zeroCodeSerber/src/EpollData.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/EpollData.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/EpollUtil.cpp.o -c /root/projects/zeroCodeSerber/src/EpollUtil.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/EpollUtil.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/EventLoop.cpp.o -c /root/projects/zeroCodeSerber/src/EventLoop.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/EventLoop.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/HttpRequest.cpp.o -c /root/projects/zeroCodeSerber/src/HttpRequest.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/HttpRequest.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/HttpRequestUtil.cpp.o -c /root/projects/zeroCodeSerber/src/HttpRequestUtil.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/HttpRequestUtil.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/HttpResponse.cpp.o -c /root/projects/zeroCodeSerber/src/HttpResponse.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/HttpResponse.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/HttpTask.cpp.o -c /root/projects/zeroCodeSerber/src/HttpTask.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/HttpTask.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/Route.cpp.o -c /root/projects/zeroCodeSerber/src/Route.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/Route.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/ThreadPoll.cpp.o -c /root/projects/zeroCodeSerber/src/ThreadPoll.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/ThreadPoll.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/WorkThread.cpp.o -c /root/projects/zeroCodeSerber/src/WorkThread.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/WorkThread.cpp"
+},
+{
+  "directory": "/root/projects/zeroCodeSerber/build/src",
+  "command": "/usr/bin/g++   -I/root/projects/zeroCodeSerber/include} -I/root/projects/zeroCodeSerber/lib/jsoncpp/include  -g   -o CMakeFiles/main.dir/main.cpp.o -c /root/projects/zeroCodeSerber/src/main.cpp",
+  "file": "/root/projects/zeroCodeSerber/src/main.cpp"
+}
+]

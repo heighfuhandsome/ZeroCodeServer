@@ -1,0 +1,9 @@
+/root/projects/zeroCodeSerber/build/CMakeFiles/rebuild_cache.dir
+/root/projects/zeroCodeSerber/build/CMakeFiles/edit_cache.dir
+/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll/CMakeFiles/rebuild_cache.dir
+/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll/CMakeFiles/edit_cache.dir
+/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll/CMakeFiles/mysqlconnectpoll_static.dir
+/root/projects/zeroCodeSerber/build/library/mysqlconnectpoll/CMakeFiles/mysqlconnectpoll_shared.dir
+/root/projects/zeroCodeSerber/build/src/CMakeFiles/rebuild_cache.dir
+/root/projects/zeroCodeSerber/build/src/CMakeFiles/edit_cache.dir
+/root/projects/zeroCodeSerber/build/src/CMakeFiles/main.dir

@@ -1,0 +1,24 @@
+{
+    "ip": "172.18.73.1",
+    "port": 80,
+    "workThreadCount": 10,
+
+    "host":"localhost",
+    "user":"root",
+    "password":"340823xjnb",
+    "dbname":"test",
+    "mysqlport":3306,
+    "connect_poll_maxSize" : 11,
+    "connect_poll_minSize":1,
+    "free_time":1,
+    "methods": [
+        {
+            "type":"sql",
+            "content":"select * from test"
+        },
+        {
+            "type":"file",
+            "content":"filename"
+        }
+    ]
+}
